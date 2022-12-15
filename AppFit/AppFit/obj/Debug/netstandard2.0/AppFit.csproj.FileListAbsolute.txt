@@ -1,0 +1,35 @@
+D:\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\AppFit.deps.json
+D:\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\AppFit.dll
+D:\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\ref\AppFit.dll
+D:\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\AppFit.pdb
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\ViewModels\Sobre.xaml.g.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\Views\CadastroAtividade.xaml.g.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\Views\ListaAtividades.xaml.g.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\Views\Sobre.xaml.g.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.AssemblyInfoInputs.cache
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.AssemblyInfo.cs
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.csproj.CoreCompileInputs.cache
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\XamlC.stamp
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.dll
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\ref\AppFit.dll
+D:\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.pdb
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\AppFit.deps.json
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\AppFit.dll
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\ref\AppFit.dll
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\bin\Debug\netstandard2.0\AppFit.pdb
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.csproj.AssemblyReference.cache
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\ViewModels\Sobre.xaml.g.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\Views\CadastroAtividade.xaml.g.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\Views\ListaAtividades.xaml.g.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\Views\Sobre.xaml.g.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.AssemblyInfoInputs.cache
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.AssemblyInfo.cs
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.csproj.CoreCompileInputs.cache
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\XamlC.stamp
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.dll
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\ref\AppFit.dll
+F:\ETEC\2 DS\MOBILE\AppFit\AppFit\AppFit\obj\Debug\netstandard2.0\AppFit.pdb
